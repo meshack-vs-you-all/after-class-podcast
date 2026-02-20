@@ -17,6 +17,9 @@ params:
     logo: "/images/logo.png"
     homepage:
       layout: "background"
+      background:
+        blur: false
+        darken: true
       show_recent: true
       max_recent: 6
     newsletter:
