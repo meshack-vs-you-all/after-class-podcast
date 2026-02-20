@@ -1,5 +1,5 @@
 ---
-title: "The after class podcast: ep - Punda Milia" Back bencher""
+title: "The after class podcast: ep - Punda Milia\" Back bencher\""
 date: 2026-02-20
 youtube_id: "hGRA-lwU0iY"
 thumbnail: "https://i.ytimg.com/vi/hGRA-lwU0iY/hqdefault.jpg"
@@ -14,6 +14,16 @@ tags: ["podcast", "afterclass"]
 Description:
 This is hands down the funniest episode we’ve recorded yet! From outrageous Gen Z confessions to unserious hot takes on trending news, we couldn’t stop laughing and neither...
 
+
+---
+
+## 🎧 Listen Everywhere
+
+Stay connected with us on your favorite platforms:
+
+- [**Spotify**](https://open.spotify.com/show/your-id)
+- [**Apple Podcasts**](https://podcasts.apple.com/us/podcast/id-your-id)
+- [**YouTube**](https://www.youtube.com/@theafterclass)
 
 ---
 

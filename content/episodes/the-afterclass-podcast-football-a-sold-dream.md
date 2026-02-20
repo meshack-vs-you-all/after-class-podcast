@@ -16,6 +16,16 @@ In this eye-opening episode, we dive deep into the tough question haunting many 
 
 ---
 
+## 🎧 Listen Everywhere
+
+Stay connected with us on your favorite platforms:
+
+- [**Spotify**](https://open.spotify.com/show/your-id)
+- [**Apple Podcasts**](https://podcasts.apple.com/us/podcast/id-your-id)
+- [**YouTube**](https://www.youtube.com/@theafterclass)
+
+---
+
 ## ☕ Support the Show
 
 If you enjoy our conversations, consider supporting us with a coffee! Your support helps us keep the equipment running and the vibes high.

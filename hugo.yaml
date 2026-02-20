@@ -9,7 +9,7 @@ params:
     tagline: "Loud, Clear, and Real"
     color_scheme: "dark"
     brand: "The After Class"
-    logo: ""
+    logo: "/images/logo.png"
     homepage:
       layout: "background"
       show_recent: true
@@ -22,9 +22,15 @@ params:
     github: "meshack-vs-you-all"
     twitter: "theafterclass"
     linkedin: "theafterclass"
+    spotify: "https://open.spotify.com/show/your-id"
+    apple: "https://podcasts.apple.com/us/podcast/id-your-id"
+    rss: "/index.xml"
     opengraph: true
     twitter_cards: true
     google_analytics: ""
+    search:
+      enable: true
+      placeholder: "Search episodes..."
 
 rssLimit: 50
 services:
