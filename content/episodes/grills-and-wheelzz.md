@@ -5,6 +5,9 @@ youtube_id: "jCq1Pppkwlg"
 thumbnail: "https://i.ytimg.com/vi/jCq1Pppkwlg/hqdefault.jpg"
 description: "NA"
 tags: ["podcast", "afterclass"]
+paige:
+  background:
+    image: "https://i.ytimg.com/vi/jCq1Pppkwlg/hqdefault.jpg"
 ---
 
 {{< paige/youtube "jCq1Pppkwlg" >}}

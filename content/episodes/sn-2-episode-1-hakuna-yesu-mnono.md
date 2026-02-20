@@ -5,6 +5,9 @@ youtube_id: "UPVzUUH4ssA"
 thumbnail: "https://i.ytimg.com/vi/UPVzUUH4ssA/hqdefault.jpg"
 description: "In this episode of The After Class Podcast, it's all about positive vibes and genuine enjoyment! The crew comes together with no pressure—just laug..."
 tags: ["podcast", "afterclass"]
+paige:
+  background:
+    image: "https://i.ytimg.com/vi/UPVzUUH4ssA/hqdefault.jpg"
 ---
 
 {{< paige/youtube "UPVzUUH4ssA" >}}

@@ -5,6 +5,9 @@ youtube_id: "ewa7GagLQb8"
 thumbnail: "https://i.ytimg.com/vi/ewa7GagLQb8/hqdefault.jpg"
 description: "Join us for thought-provoking conversations, laughs, and fresh takes on the topics that matter most.  __________________________ Host: Brighton Mas..."
 tags: ["podcast", "afterclass"]
+paige:
+  background:
+    image: "https://i.ytimg.com/vi/ewa7GagLQb8/hqdefault.jpg"
 ---
 
 {{< paige/youtube "ewa7GagLQb8" >}}

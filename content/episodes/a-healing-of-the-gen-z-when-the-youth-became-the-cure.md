@@ -5,6 +5,9 @@ youtube_id: "QuVyn4EyBxE"
 thumbnail: "https://i.ytimg.com/vi/QuVyn4EyBxE/hqdefault.jpg"
 description: "In this episode of The After Class Podcast, we dig into the heartbeat of Kenya's current revolution  the Gen Z protests. But we’re not just talking..."
 tags: ["podcast", "afterclass"]
+paige:
+  background:
+    image: "https://i.ytimg.com/vi/QuVyn4EyBxE/hqdefault.jpg"
 ---
 
 {{< paige/youtube "QuVyn4EyBxE" >}}

@@ -5,6 +5,9 @@ youtube_id: "hGRA-lwU0iY"
 thumbnail: "https://i.ytimg.com/vi/hGRA-lwU0iY/hqdefault.jpg"
 description: "Description: This is hands down the funniest episode we’ve recorded yet! From outrageous Gen Z confessions to unserious hot takes on trending news,..."
 tags: ["podcast", "afterclass"]
+paige:
+  background:
+    image: "https://i.ytimg.com/vi/hGRA-lwU0iY/hqdefault.jpg"
 ---
 
 {{< paige/youtube "hGRA-lwU0iY" >}}

@@ -5,6 +5,9 @@ youtube_id: "TD2uK6-UxBg"
 thumbnail: "https://i.ytimg.com/vi/TD2uK6-UxBg/hqdefault.jpg"
 description: "In this high-energy episode of The After Class Podcast, we sit down with our guest Mike Ogechi, a young entrepreneur who's making moves in the car-..."
 tags: ["podcast", "afterclass"]
+paige:
+  background:
+    image: "https://i.ytimg.com/vi/TD2uK6-UxBg/hqdefault.jpg"
 ---
 
 {{< paige/youtube "TD2uK6-UxBg" >}}

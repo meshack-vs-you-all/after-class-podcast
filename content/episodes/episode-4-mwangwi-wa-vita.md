@@ -5,6 +5,9 @@ youtube_id: "hjjZmKJIOYQ"
 thumbnail: "https://i.ytimg.com/vi/hjjZmKJIOYQ/hqdefault.jpg"
 description: "In Episode 4 of The After Class Podcast, it’s all about pure vibes—but with a message! We’re talking real about the youth, the system, and why you ..."
 tags: ["podcast", "afterclass"]
+paige:
+  background:
+    image: "https://i.ytimg.com/vi/hjjZmKJIOYQ/hqdefault.jpg"
 ---
 
 {{< paige/youtube "hjjZmKJIOYQ" >}}

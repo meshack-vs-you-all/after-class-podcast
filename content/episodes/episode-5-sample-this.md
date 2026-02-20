@@ -5,6 +5,9 @@ youtube_id: "tCqyR3ybgXs"
 thumbnail: "https://i.ytimg.com/vi/tCqyR3ybgXs/hqdefault.jpg"
 description: "A lively podcast that dives into entertainment, politics, and everything in between. Join us for thought-provoking conversations, laughs, and fresh..."
 tags: ["podcast", "afterclass"]
+paige:
+  background:
+    image: "https://i.ytimg.com/vi/tCqyR3ybgXs/hqdefault.jpg"
 ---
 
 {{< paige/youtube "tCqyR3ybgXs" >}}

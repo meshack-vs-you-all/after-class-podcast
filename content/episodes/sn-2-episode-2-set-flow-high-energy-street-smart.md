@@ -5,6 +5,9 @@ youtube_id: "8OmO075fNGE"
 thumbnail: "https://i.ytimg.com/vi/8OmO075fNGE/hqdefault.jpg"
 description: "In this episode of The After Class Podcast, the crew brings that raw, unfiltered energy straight into the conversation. True to the spirit of Episo..."
 tags: ["podcast", "afterclass"]
+paige:
+  background:
+    image: "https://i.ytimg.com/vi/8OmO075fNGE/hqdefault.jpg"
 ---
 
 {{< paige/youtube "8OmO075fNGE" >}}

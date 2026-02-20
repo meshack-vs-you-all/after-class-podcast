@@ -5,6 +5,9 @@ youtube_id: "iVgZuAl5WKo"
 thumbnail: "https://i.ytimg.com/vi/iVgZuAl5WKo/hqdefault.jpg"
 description: "This episode is all about good vibes, laughter, and real talk! The crew is back with that raw, unfiltered energy just vibing, cracking jokes, and s..."
 tags: ["podcast", "afterclass"]
+paige:
+  background:
+    image: "https://i.ytimg.com/vi/iVgZuAl5WKo/hqdefault.jpg"
 ---
 
 {{< paige/youtube "iVgZuAl5WKo" >}}

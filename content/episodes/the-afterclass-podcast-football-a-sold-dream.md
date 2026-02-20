@@ -5,6 +5,9 @@ youtube_id: "4XAaLGbobxc"
 thumbnail: "https://i.ytimg.com/vi/4XAaLGbobxc/hqdefault.jpg"
 description: "In this eye-opening episode, we dive deep into the tough question haunting many young athletes: Why do so many fall short of the dream they’ve chas..."
 tags: ["podcast", "afterclass"]
+paige:
+  background:
+    image: "https://i.ytimg.com/vi/4XAaLGbobxc/hqdefault.jpg"
 ---
 
 {{< paige/youtube "4XAaLGbobxc" >}}
