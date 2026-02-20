@@ -16,6 +16,14 @@ NA
 
 ---
 
+## ☕ Support the Show
+
+If you enjoy our conversations, consider supporting us with a coffee! Your support helps us keep the equipment running and the vibes high.
+
+<a href="https://www.buymeacoffee.com/theafterclass" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+---
+
 ## 🤝 Featured Promotions
 
 {{< paige/request "Contact us at sponsor@theafterclass.com to see your brand featured here!" >}}
