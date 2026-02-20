@@ -31,10 +31,10 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: 'latest'
+          hugo-version: '0.155.3'
           extended: true
       - name: Install Dart Sass
-        run: sudo npm install -g sass
+        run: sudo npm install -g sass-embedded
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
