@@ -36,9 +36,9 @@ If you enjoy our conversations, consider supporting us with a coffee! Your suppo
 
 ## 🤝 Featured Promotions
 
-{{< paige/alert >}}
-Contact us at sponsor@theafterclass.com to see your brand featured here!
-{{< /paige/alert >}}
+<div class="alert alert-info" role="alert">
+    Contact us at sponsor@theafterclass.com to see your brand featured here!
+</div>
 
 <div class="partner-ad-box" style="border: 2px solid #6366f1; border-radius: 12px; padding: 20px; margin: 20px 0; background: rgba(99, 102, 241, 0.05);">
     <h3>🚀 Your Brand Name Here</h3>
