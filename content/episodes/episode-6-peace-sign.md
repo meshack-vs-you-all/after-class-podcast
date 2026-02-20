@@ -2,9 +2,9 @@
 title: "The After Class Podcast | Episode 6 | PEACE SIGN 🤝"
 date: 2026-02-20
 youtube_id: "w_LPKJRkN2c"
-thumbnail: "https://i.ytimg.com/vi/w_LPKJRkN2c/hqdefault.jpg"
-description: "Welcome to another banger from The After Class Podcast! This episode is all about hype, good vibes, and those catchy lines that will stick in your ..."
-tags: ["podcast", "afterclass"]
+images: ["https://i.ytimg.com/vi/w_LPKJRkN2c/hqdefault.jpg"]
+description: "Welcome to another banger from The After Class Podcast! This episode is all about hype, good vibes, and those catchy lines that will stick in your head all d..."
+tags: ["podcast", "afterclass", "student stories"]
 paige:
   background:
     image: "https://i.ytimg.com/vi/w_LPKJRkN2c/hqdefault.jpg"

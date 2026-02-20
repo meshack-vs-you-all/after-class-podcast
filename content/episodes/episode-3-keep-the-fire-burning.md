@@ -2,9 +2,9 @@
 title: "The After Class Podcast | Episode 3- Keep the Fire burning."
 date: 2026-02-20
 youtube_id: "ewa7GagLQb8"
-thumbnail: "https://i.ytimg.com/vi/ewa7GagLQb8/hqdefault.jpg"
-description: "Join us for thought-provoking conversations, laughs, and fresh takes on the topics that matter most.  __________________________ Host: Brighton Mas..."
-tags: ["podcast", "afterclass"]
+images: ["https://i.ytimg.com/vi/ewa7GagLQb8/hqdefault.jpg"]
+description: "Join us for thought-provoking conversations, laughs, and fresh takes on the topics that matter most.  __________________________ Host: Brighton Masika Co- Ho..."
+tags: ["podcast", "afterclass", "student stories"]
 paige:
   background:
     image: "https://i.ytimg.com/vi/ewa7GagLQb8/hqdefault.jpg"

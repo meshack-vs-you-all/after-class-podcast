@@ -2,9 +2,9 @@
 title: "The After Class Podcast | SN 2 EP 5 | TRADITIONAL MAN vs MODERN WOMAN - WHAT TO EXPECT"
 date: 2026-02-20
 youtube_id: "9BXbENku0aA"
-thumbnail: "https://i.ytimg.com/vi/9BXbENku0aA/hqdefault.jpg"
-description: "In this episode of The After Class Podcast, it's all about positive vibes and genuine enjoyment! The crew comes together with no pressure—just laug..."
-tags: ["podcast", "afterclass"]
+images: ["https://i.ytimg.com/vi/9BXbENku0aA/hqdefault.jpg"]
+description: "In this episode of The After Class Podcast, it's all about positive vibes and genuine enjoyment! The crew comes together with no pressure—just laughs, storie..."
+tags: ["podcast", "afterclass", "student stories"]
 paige:
   background:
     image: "https://i.ytimg.com/vi/9BXbENku0aA/hqdefault.jpg"

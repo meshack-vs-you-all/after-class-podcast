@@ -2,9 +2,9 @@
 title: "The After Class Podcast | Episode 5- Sample This"
 date: 2026-02-20
 youtube_id: "tCqyR3ybgXs"
-thumbnail: "https://i.ytimg.com/vi/tCqyR3ybgXs/hqdefault.jpg"
-description: "A lively podcast that dives into entertainment, politics, and everything in between. Join us for thought-provoking conversations, laughs, and fresh..."
-tags: ["podcast", "afterclass"]
+images: ["https://i.ytimg.com/vi/tCqyR3ybgXs/hqdefault.jpg"]
+description: "A lively podcast that dives into entertainment, politics, and everything in between. Join us for thought-provoking conversations, laughs, and fresh takes on ..."
+tags: ["podcast", "afterclass", "student stories"]
 paige:
   background:
     image: "https://i.ytimg.com/vi/tCqyR3ybgXs/hqdefault.jpg"

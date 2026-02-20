@@ -2,9 +2,9 @@
 title: "The AfterClass Podcast | Episode 9 - Usichokeshe Hekalu"
 date: 2026-02-20
 youtube_id: "dhifbvQZOcQ"
-thumbnail: "https://i.ytimg.com/vi/dhifbvQZOcQ/hqdefault.jpg"
-description: "In this episode of The After Class Podcast, it's all about positive vibes and genuine enjoyment! The crew comes together with no pressure—just laug..."
-tags: ["podcast", "afterclass"]
+images: ["https://i.ytimg.com/vi/dhifbvQZOcQ/hqdefault.jpg"]
+description: "In this episode of The After Class Podcast, it's all about positive vibes and genuine enjoyment! The crew comes together with no pressure—just laughs, storie..."
+tags: ["podcast", "afterclass", "student stories"]
 paige:
   background:
     image: "https://i.ytimg.com/vi/dhifbvQZOcQ/hqdefault.jpg"

@@ -2,9 +2,9 @@
 title: "The After Class Podcast | Episode 4 | MWANGWI WA VITA"
 date: 2026-02-20
 youtube_id: "hjjZmKJIOYQ"
-thumbnail: "https://i.ytimg.com/vi/hjjZmKJIOYQ/hqdefault.jpg"
-description: "In Episode 4 of The After Class Podcast, it’s all about pure vibes—but with a message! We’re talking real about the youth, the system, and why you ..."
-tags: ["podcast", "afterclass"]
+images: ["https://i.ytimg.com/vi/hjjZmKJIOYQ/hqdefault.jpg"]
+description: "In Episode 4 of The After Class Podcast, it’s all about pure vibes—but with a message! We’re talking real about the youth, the system, and why you shouldn’t ..."
+tags: ["podcast", "afterclass", "student stories"]
 paige:
   background:
     image: "https://i.ytimg.com/vi/hjjZmKJIOYQ/hqdefault.jpg"

@@ -2,9 +2,9 @@
 title: "The After Class Podcast : - life ni short lakini yangu ni Toja"
 date: 2026-02-20
 youtube_id: "iVgZuAl5WKo"
-thumbnail: "https://i.ytimg.com/vi/iVgZuAl5WKo/hqdefault.jpg"
-description: "This episode is all about good vibes, laughter, and real talk! The crew is back with that raw, unfiltered energy just vibing, cracking jokes, and s..."
-tags: ["podcast", "afterclass"]
+images: ["https://i.ytimg.com/vi/iVgZuAl5WKo/hqdefault.jpg"]
+description: "This episode is all about good vibes, laughter, and real talk! The crew is back with that raw, unfiltered energy just vibing, cracking jokes, and sharing gem..."
+tags: ["podcast", "afterclass", "student stories"]
 paige:
   background:
     image: "https://i.ytimg.com/vi/iVgZuAl5WKo/hqdefault.jpg"

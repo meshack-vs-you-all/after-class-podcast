@@ -2,9 +2,9 @@
 title: "The After Class Podcast | Episode 7 - Samaki Samaki"
 date: 2026-02-20
 youtube_id: "TD2uK6-UxBg"
-thumbnail: "https://i.ytimg.com/vi/TD2uK6-UxBg/hqdefault.jpg"
-description: "In this high-energy episode of The After Class Podcast, we sit down with our guest Mike Ogechi, a young entrepreneur who's making moves in the car-..."
-tags: ["podcast", "afterclass"]
+images: ["https://i.ytimg.com/vi/TD2uK6-UxBg/hqdefault.jpg"]
+description: "In this high-energy episode of The After Class Podcast, we sit down with our guest Mike Ogechi, a young entrepreneur who's making moves in the car-selling ga..."
+tags: ["podcast", "afterclass", "student stories"]
 paige:
   background:
     image: "https://i.ytimg.com/vi/TD2uK6-UxBg/hqdefault.jpg"

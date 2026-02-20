@@ -2,9 +2,9 @@
 title: "The AfterClass Podcast | Football | A Sold DREAM"
 date: 2026-02-20
 youtube_id: "4XAaLGbobxc"
-thumbnail: "https://i.ytimg.com/vi/4XAaLGbobxc/hqdefault.jpg"
-description: "In this eye-opening episode, we dive deep into the tough question haunting many young athletes: Why do so many fall short of the dream they’ve chas..."
-tags: ["podcast", "afterclass"]
+images: ["https://i.ytimg.com/vi/4XAaLGbobxc/hqdefault.jpg"]
+description: "In this eye-opening episode, we dive deep into the tough question haunting many young athletes: Why do so many fall short of the dream they’ve chased their w..."
+tags: ["podcast", "afterclass", "student stories"]
 paige:
   background:
     image: "https://i.ytimg.com/vi/4XAaLGbobxc/hqdefault.jpg"

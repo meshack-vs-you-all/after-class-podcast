@@ -2,9 +2,9 @@
 title: "The After Class Podcast :- Grills and Wheelzz"
 date: 2026-02-20
 youtube_id: "jCq1Pppkwlg"
-thumbnail: "https://i.ytimg.com/vi/jCq1Pppkwlg/hqdefault.jpg"
+images: ["https://i.ytimg.com/vi/jCq1Pppkwlg/hqdefault.jpg"]
 description: "NA"
-tags: ["podcast", "afterclass"]
+tags: ["podcast", "afterclass", "student stories"]
 paige:
   background:
     image: "https://i.ytimg.com/vi/jCq1Pppkwlg/hqdefault.jpg"

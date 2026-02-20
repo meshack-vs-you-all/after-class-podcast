@@ -2,9 +2,9 @@
 title: "The After Class Podcast| ep10 - One very big mishSTEAK🍖"
 date: 2026-02-20
 youtube_id: "qtSY77Dx02s"
-thumbnail: "https://i.ytimg.com/vi/qtSY77Dx02s/hqdefault.jpg"
+images: ["https://i.ytimg.com/vi/qtSY77Dx02s/hqdefault.jpg"]
 description: "NA"
-tags: ["podcast", "afterclass"]
+tags: ["podcast", "afterclass", "student stories"]
 paige:
   background:
     image: "https://i.ytimg.com/vi/qtSY77Dx02s/hqdefault.jpg"

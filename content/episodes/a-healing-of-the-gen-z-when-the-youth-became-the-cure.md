@@ -2,9 +2,9 @@
 title: "“A Healing of the Gen Z: When the Youth Became the Cure”"
 date: 2026-02-20
 youtube_id: "QuVyn4EyBxE"
-thumbnail: "https://i.ytimg.com/vi/QuVyn4EyBxE/hqdefault.jpg"
-description: "In this episode of The After Class Podcast, we dig into the heartbeat of Kenya's current revolution  the Gen Z protests. But we’re not just talking..."
-tags: ["podcast", "afterclass"]
+images: ["https://i.ytimg.com/vi/QuVyn4EyBxE/hqdefault.jpg"]
+description: "In this episode of The After Class Podcast, we dig into the heartbeat of Kenya's current revolution  the Gen Z protests. But we’re not just talking about wha..."
+tags: ["podcast", "afterclass", "student stories"]
 paige:
   background:
     image: "https://i.ytimg.com/vi/QuVyn4EyBxE/hqdefault.jpg"
