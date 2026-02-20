@@ -21,7 +21,7 @@ We've sat down with some of the most interesting voices in our community:
 ---
 
 ## 💰 Sponsor the Show
-Reach a youthful, engaged audience. We offer featured segments, sponsored show notes, and brand integration. [Connect with us](contact) for partnership opportunities.
+Reach a youthful, engaged audience. We offer featured segments, sponsored show notes, and brand integration. [Connect with us](/contact) for partnership opportunities.
 
 ## 📺 Watch on YouTube
 [Visit our YouTube Channel](https://www.youtube.com/@theafterclass)

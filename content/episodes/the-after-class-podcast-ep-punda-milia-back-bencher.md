@@ -44,6 +44,6 @@ If you enjoy our conversations, consider supporting us with a coffee! Your suppo
 <div class="partner-ad-box" style="border: 2px solid #6366f1; border-radius: 12px; padding: 20px; margin: 20px 0; background: rgba(99, 102, 241, 0.05);">
     <h3>🚀 Your Brand Name Here</h3>
     <p>Reach thousands of engaged students and young professionals by partnering with The After Class Podcast.</p>
-    <a href="contact" class="btn btn-primary">Learn More About Sponsorship</a>
+    <a href="/contact" class="btn btn-primary">Learn More About Sponsorship</a>
 </div>
 

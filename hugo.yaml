@@ -1,10 +1,7 @@
-baseURL: "https://theafterclass.com/"
+baseURL: "https://meshack-vs-you-all.github.io/after-class-podcast/"
 languageCode: "en-us"
 title: "The After Class Podcast"
 theme: "paige"
-
-canonifyURLs: true
-relativeURLs: true
 
 markup:
   goldmark:
@@ -55,14 +52,14 @@ permalinks:
 menu:
   main:
     - name: "Episodes"
-      url: "episodes"
+      url: "/episodes"
       weight: 10
     - name: "Sponsor"
-      url: "sponsor"
+      url: "/sponsor"
       weight: 20
     - name: "The Network"
-      url: "network"
+      url: "/network"
       weight: 30
     - name: "About"
-      url: "about"
+      url: "/about"
       weight: 40
