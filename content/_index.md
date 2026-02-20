@@ -9,7 +9,7 @@ paige:
 # Loud, Clear, and Real.
 ### The premier podcast for raw student conversations that happen when the lecture ends.
 
-{{< paige/button "Explore Episodes" "/episodes" >}}
+<a href="/episodes" class="btn btn-primary btn-lg px-4 gap-3">Explore Episodes</a>
 
 ---
 
