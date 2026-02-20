@@ -1,0 +1,54 @@
+baseURL: "https://theafterclass.com/"
+languageCode: "en-us"
+title: "The After Class Podcast"
+theme: "paige"
+
+params:
+  paige:
+    description: "Loud, Clear, and Real. The premier podcast for raw student conversations."
+    tagline: "Loud, Clear, and Real"
+    color_scheme: "dark"
+    brand: "The After Class"
+    logo: ""
+    homepage:
+      layout: "background"
+      show_recent: true
+      max_recent: 6
+    newsletter:
+      enable: true
+      title: "Subscribe for Updates"
+      description: "Get the latest episodes and exclusive show notes delivered to your inbox."
+    author: "The After Class Team"
+    github: "meshack-vs-you-all"
+    twitter: "theafterclass"
+    linkedin: "theafterclass"
+    opengraph: true
+    twitter_cards: true
+    google_analytics: ""
+
+rssLimit: 50
+services:
+  rss:
+    enable: true
+
+taxonomies:
+  tag: tags
+  series: series
+
+permalinks:
+  episodes: "/episodes/:title/"
+
+menu:
+  main:
+    - name: "Episodes"
+      url: "/episodes"
+      weight: 10
+    - name: "Sponsor"
+      url: "/sponsor"
+      weight: 20
+    - name: "The Network"
+      url: "/network"
+      weight: 30
+    - name: "About"
+      url: "/about"
+      weight: 40

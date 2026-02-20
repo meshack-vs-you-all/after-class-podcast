@@ -1,0 +1,28 @@
+---
+title: "The After Class Podcast | SN 2 Episode 3 | Tao Mbao Mbao Tao"
+date: 2026-02-20
+youtube_id: "p2-YPACDWs0"
+thumbnail: "https://i.ytimg.com/vi/p2-YPACDWs0/hqdefault.jpg"
+description: "In this episode of The After Class Podcast, it's all about positive vibes and genuine enjoyment! The crew comes together with no pressure—just laug..."
+tags: ["podcast", "afterclass"]
+---
+
+{{< paige/youtube "p2-YPACDWs0" >}}
+
+## Episode Description
+
+In this episode of The After Class Podcast, it's all about positive vibes and genuine enjoyment! The crew comes together with no pressure—just laughs, stories, random thoughts, and good conversat...
+
+
+---
+
+## 🤝 Featured Promotions
+
+{{< paige/request "Contact us at sponsor@theafterclass.com to see your brand featured here!" >}}
+
+<div class="partner-ad-box" style="border: 2px solid #6366f1; border-radius: 12px; padding: 20px; margin: 20px 0; background: rgba(99, 102, 241, 0.05);">
+    <h3>🚀 Your Brand Name Here</h3>
+    <p>Reach thousands of engaged students and young professionals by partnering with The After Class Podcast.</p>
+    <a href="/contact" class="btn btn-primary">Learn More About Sponsorship</a>
+</div>
+
