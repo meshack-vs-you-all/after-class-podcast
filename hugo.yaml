@@ -3,6 +3,11 @@ languageCode: "en-us"
 title: "The After Class Podcast"
 theme: "paige"
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 params:
   paige:
     description: "Loud, Clear, and Real. The premier podcast for raw student conversations."
